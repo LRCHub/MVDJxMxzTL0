@@ -1,0 +1,83 @@
+# Jessie Murph – Wild Ones
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Hm-mm, yeah, yeah
+Got me wide, wide open,
+got a .45 on him
+And he pushing 'bout a 102
+Always smokin' somethin',
+he ain't worried 'bout nothin'
+'Cause he ain't got
+nothing to lose
+I got a thing
+for the hard liquor on ice
+Short days and long nights
+Marlboros out the window
+Middle finger to the sky
+Say you wanna get dangerous
+Now you're speaking my language
+I forgot what your name is
+So, I'ma call you mine,
+I'ma call you mine
+Got me wide, wide open,
+got a .45 on him
+And he pushing 'bout a 102
+Always smokin' somethin',
+he ain't worried 'bout nothin'
+'Cause he ain't got
+nothing to lose
+I got a thing for the wild ones
+(Wild, wild, wild)
+I got a thing for the wild ones,
+it's like he knew
+I got a thing for the wild ones
+(Wild, wild, wild)
+I got a thing for the wild ones,
+they like me too
+(Yeah) I'm attracted to things
+that are really crazy
+Asking me how I've been
+feeling lately
+Coming for mine,
+then it's do or die
+I won't let it slide,
+no stealing bases
+No back-and-forth bargaining
+(Now)
+No bitchin' and arguing
+A whole lotta problems,
+living in Gotham
+And Bunnie's my Harley Quinn
+(My Harley Quinn)
+Was raised in the darkness,
+forgive me, I'm guarded
+(Guarded)
+I have no shame,
+I'm in love with the heartless
+The police will never take us
+alive and cowgirls don't cry
+Got me wide, wide open,
+got a .45 on him
+And he pushing 'bout a 102
+Always smokin' somethin',
+he ain't worried 'bout nothin'
+'Cause he ain't got
+nothing to lose
+I got a thing for the wild ones
+(Wild, wild, wild)
+I got a thing for the wild ones,
+it's like he knew
+I got a thing for the wild ones
+(Wild, wild, wild)
+I got a thing for the wild ones,
+they like me too
+Yeah (Wild, wild, wild)
+A thing for the wild ones
+(It's like he knew)
+I got a thing for the wild ones
+(Wild, wild, wild)
+Got a thing for the wild ones
+(They like me too, hm)
+```

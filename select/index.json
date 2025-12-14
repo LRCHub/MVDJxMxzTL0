@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Wild Ones",
+  "base_artist": "Jessie Murph",
+  "createdAt": "2025-12-14T15:22:01.987593Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Forever Young [The Wild Ones]",
+      "artist": "BoDeans",
+      "has_synced": true,
+      "path": "select/01_Forever_Young_[The_Wild_Ones]_BoDeans.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Real Wild Ones",
+      "artist": "Phoebe Ryan",
+      "has_synced": true,
+      "path": "select/02_The_Real_Wild_Ones_Phoebe_Ryan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wild Ones",
+      "artist": "Let Em Riot",
+      "has_synced": true,
+      "path": "select/03_Wild_Ones_Let_Em_Riot.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Wild Ones",
+      "artist": "Lou Busch",
+      "has_synced": false,
+      "path": "select/04_The_Wild_Ones_Lou_Busch.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Wild Ones (Remastered)",
+      "artist": "Lou Busch",
+      "has_synced": false,
+      "path": "select/05_The_Wild_Ones_(Remastered)_Lou_Busch.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Wild Ones - Live",
+      "artist": "Suede",
+      "has_synced": true,
+      "path": "select/06_The_Wild_Ones_-_Live_Suede.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Wild Ones",
+      "artist": "Suede",
+      "has_synced": true,
+      "path": "select/07_The_Wild_Ones_Suede.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Wild Ones [original unedited version] [Remastered]",
+      "artist": "Suede",
+      "has_synced": false,
+      "path": "select/08_The_Wild_Ones_[original_unedited_version]_[Remastered]_Suede.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Wild Ones (Original Unedited Version)",
+      "artist": "Suede",
+      "has_synced": false,
+      "path": "select/09_The_Wild_Ones_(Original_Unedited_Version)_Suede.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Wild Ones",
+      "artist": "Status Quo",
+      "has_synced": true,
+      "path": "select/10_The_Wild_Ones_Status_Quo.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Wild Ones",
+      "artist": "FM-84 feat. Ollie Wride",
+      "has_synced": true,
+      "path": "select/11_Wild_Ones_FM-84_feat._Ollie_Wride.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Wild Ones (feat. Ollie Wride)",
+      "artist": "FM-84",
+      "has_synced": true,
+      "path": "select/12_Wild_Ones_(feat._Ollie_Wride)_FM-84.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Wild Ones",
+      "artist": "Florida feat. Sia",
+      "has_synced": true,
+      "path": "select/13_Wild_Ones_Florida_feat._Sia.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Wild Ones",
+      "artist": "Flo Rida (feat. Sia)",
+      "has_synced": true,
+      "path": "select/14_Wild_Ones_Flo_Rida_(feat._Sia).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Wild Ones (feat. Sia)",
+      "artist": "Flo Rida feat. Sia",
+      "has_synced": true,
+      "path": "select/15_Wild_Ones_(feat._Sia)_Flo_Rida_feat._Sia.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Wild Ones",
+      "artist": "Flo Rida Ft. Sia",
+      "has_synced": true,
+      "path": "select/16_Wild_Ones_Flo_Rida_Ft._Sia.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Only the Wild Ones",
+      "artist": "Dispatch",
+      "has_synced": true,
+      "path": "select/17_Only_the_Wild_Ones_Dispatch.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Only the Wild Ones",
+      "artist": "Dispatch",
+      "has_synced": true,
+      "path": "select/18_Only_the_Wild_Ones_Dispatch.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Wild Ones",
+      "artist": "Flo Rida",
+      "has_synced": true,
+      "path": "select/19_Wild_Ones_Flo_Rida.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wild Ones (feat. Jelly Roll)",
+      "artist": "Jessie Murph, Jelly Roll",
+      "has_synced": false,
+      "path": "select/pl_01_Wild_Ones_(feat._Jelly_Roll)_Jessie_Murph,_Jelly_Roll.txt"
+    }
+  ]
+}
